@@ -1,5 +1,5 @@
 {
-    "name": "bartoszbartniczak/doctrine-datetime-with-microseconds",
+    "name": "mpmasoftware/bartoszbartniczak-doctrine-datetime-with-microseconds",
     "description": "Doctine extension that adds microseconds to \\DateTime objects.",
     "type": "library",
     "license": "Apache-2.0",
@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.2",
-        "doctrine/dbal": "^2.9"
+        "doctrine/dbal": "^3.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
